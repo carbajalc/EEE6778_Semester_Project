@@ -23,8 +23,8 @@ The system will produce accessibility classifications, confidence scores, and sp
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-cd YOUR-REPOSITORY
+git clone (https://github.com/carbajalc/EEE6778_Semester_Project.git)
+cd EEE6778_Semester_Project
 ```
 
 ### 2. Install Python Dependencies
