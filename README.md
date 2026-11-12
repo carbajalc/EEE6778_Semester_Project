@@ -216,8 +216,7 @@ EEE6778_Semester_Project/
 M.S. Applied Data Science  
 University of Florida
 
-GitHub: [YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)  
-Email: YOUR-EMAIL-ADDRESS
+GitHub: [carbajalc](https://github.com/carbajalc/EEE6778_Semester_Project.git) 
 
 ---
 
