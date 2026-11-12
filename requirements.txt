@@ -1,0 +1,21 @@
+
+# Deep learning
+torch
+torchvision
+transformers
+datasets
+
+# PDF processing
+PyMuPDF
+
+# Data analysis and visualization
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Images and notebooks
+Pillow
+ipython
+ipywidgets
