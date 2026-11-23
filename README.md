@@ -2,17 +2,13 @@
 
 ## Project Description
 
-This project aims to develop a deep learning-based system that evaluates the accessibility of PDF documents using document understanding and multimodal machine learning techniques. The primary goal is to help instructors identify potential accessibility issues in course materials, specifically PDF documents.
+This project aims to develop a deep learning-based system that evaluates the accessibility of PDF documents using document extraction and dual encoder model. The primary goal is to help instructors identify alternative texts contained in the images of their PDFs and flag these images if their texts are nonmeaningful.
 
-The project uses **Microsoft LayoutLMv3**, a pretrained multimodal transformer that processes text, visual information, and spatial document layouts. By combining document layout recognition with accessibility-specific evaluation, the system aims to identify potential issues and provide criterion-level assessments.
+The project uses **CLIP**, a pretrained dual encoder that processes text and visual information. This is combined with a PDF extraction processor to extract embedded images.
 
-The initial assessment focuses on three accessibility criteria:
+The initial assessment focuses on accessibility criteria: Alternative Text Quality
 
-1. Alternative Text Quality
-2. Color Contrast
-3. Table Structure
-
-The system will produce accessibility classifications, confidence scores, and specific document identification of violations. The overall accessibility score will be calculated from the criterion-level results.
+The system will produce similarity score between images and the alternative text found within the pdf. However, if no alternative text is found, the system will produce no result and flag the image as not passing the standards.
 
 **Note:** This project is intended as an automated preliminary accessibility assessment tool. Its predictions do not constitute official WCAG compliance certification or replace a comprehensive accessibility review.
 
@@ -35,11 +31,22 @@ Install the required dependencies:
 
 ```bash
 pip install torch torchvision
-pip install transformers datasets
+pip install transformers
+pip install datasets
+pip install huggingface_hub
 pip install pymupdf
-pip install pandas numpy matplotlib seaborn
-pip install pillow scikit-learn
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
+pip install pillow
+pip install scikit-learn
+pip install joblib
+pip install streamlit
 pip install ipywidgets
+pip install plotly
+pip install tqdm
+pip install pypdf
 ```
 
 If a `requirements.txt` file is provided, install the dependencies using:
@@ -122,7 +129,7 @@ The dataset includes 11 document layout categories:
 
 **Purpose in this project:**
 
-DocLayNet provides training data for recognizing and classifying document layout elements. This information can help LayoutLMv3 identify important document components, including headings, images, paragraphs, and tables.
+DocLayNet provides images to create a synthetic dataset. The PDF pages containing images were extracted from DocLayNet and meaningful alternative texts were synthetically generated using BLIP and a manually typed list (300) of nonmeaningful alternative texts.
 
 **Dataset sources:**
 
@@ -152,7 +159,7 @@ The seven evaluated criteria are:
 
 **Purpose in this project:**
 
-This dataset provides accessibility-specific annotations that can be used to develop and evaluate the system's ability to identify potential accessibility issues in PDF documents. However, not all criteria and annotation labels may be used in the project.
+This dataset provides accessibility-specific annotations that can be used to develop and evaluate the system's ability to identify potential accessibility issues in PDF documents. However, only the Alternative Text Quality was used for final evaluation of the model(s).
 
 **Dataset source:**
 
@@ -166,14 +173,11 @@ Before training, the datasets require preprocessing to ensure compatibility with
 The preprocessing workflow may include:
 
 - Extracting text and images from PDF documents.
-- Rendering PDF pages into images.
-- Extracting document layout information and bounding boxes.
-- Mapping annotations to the appropriate layout categories.
 - Converting accessibility labels into numerical representations.
 - Handling missing values and uncertain annotations.
 - Splitting documents into training, validation, and testing sets.
 
-Data augmentation may also be explored to address the limited number of accessibility-labeled documents. All augmented versions of an original PDF should remain in the same dataset split to prevent data leakage.
+Data augmentation was also explored to address the limited number of accessibility-labeled documents. All augmented versions of an original PDF should remain in the same dataset split to prevent data leakage.
 
 **Important:** DocLayNet provides document layout annotations, not accessibility labels. The PDF Accessibility Benchmark provides accessibility-specific annotations. These datasets serve different purposes within the project.
 
