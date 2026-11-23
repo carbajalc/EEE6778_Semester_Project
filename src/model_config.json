@@ -1,0 +1,13 @@
+{
+    "clip_model": "openai/clip-vit-base-patch32",
+    "clip_similarity_threshold": 0.23571069538593292,
+    "logistic_regression_threshold": 0.44673682954589106,
+    "random_seed": 42,
+    "similarity_metric": "cosine_similarity",
+    "positive_class": "meaningful",
+    "negative_class": "nonmeaningful",
+    "classification_method": {
+        "clip": "image_text_cosine_similarity",
+        "logistic_regression": "tfidf_alt_text_classification"
+    }
+}
