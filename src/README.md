@@ -1,1 +1,1 @@
-## This folder contains all models, data pipelines, and helper functions used within the notebooks folder.
+## This folder contains all models, data pipelines, and helper functions used within the notebooks folder. The clip_training_results is the output of the model_training.ipynb notebook, however these files can be used individually. The models included are the tuned CLIP model and the logistic regression with a TFIDF vectorizer.
