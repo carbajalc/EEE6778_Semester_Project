@@ -10,6 +10,9 @@ The initial assessment focuses on accessibility criteria: Alternative Text Quali
 
 The system will produce similarity score between images and the alternative text found within the pdf. However, if no alternative text is found, the system will produce no result and flag the image as not passing the standards.
 
+## Updated Results
+Both models have been updated and improved upon during the course of this project. The performance during the first and most recent run of the CLIP model remained relatively high (can be seen within the results folder). Because of these slight improvements, the updated CLIP model is used in the rest of the system implementation. However, the datasets used to train both the CLIP and Logistic Regression model are vastly different during the first run and the most recent run (one using half BLIP generated and half manually written texts, the other using all BLIP generated texts). Therefore, their performance cannot be measured identically, since the models were trained in different settings (distinguish between meaningful vs nonmeaningful and distinguish matched pairs with images and texts). Overall, CLIP is most useful in image-text pairing, but Logistic Regression is most useful in meaningful-nonmeaningful classification (if a simpler model is preferred).
+
 **Note:** This project is intended as an automated preliminary accessibility assessment tool. Its predictions do not constitute official WCAG compliance certification or replace a comprehensive accessibility review.
 
 ## Installation and Setup
@@ -129,7 +132,7 @@ The dataset includes 11 document layout categories:
 
 **Purpose in this project:**
 
-DocLayNet provides images to create a synthetic dataset. The PDF pages containing images were extracted from DocLayNet and meaningful alternative texts were synthetically generated using BLIP and a manually typed list (300) of nonmeaningful alternative texts.
+DocLayNet provides images to create a synthetic dataset. The PDF pages containing images were extracted from DocLayNet and meaningful alternative texts were synthetically generated using BLIP.
 
 **Dataset sources:**
 
@@ -210,8 +213,6 @@ EEE6778_Semester_Project/
 └── ui/
     └── (User interface code)
 ```
-
-*Note: This is a suggested directory structure. Update it to match the actual organization of the repository.*
 
 ## Author
 
