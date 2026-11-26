@@ -1,13 +1,22 @@
 {
-    "clip_model": "openai/clip-vit-base-patch32",
-    "clip_similarity_threshold": 0.23571069538593292,
-    "logistic_regression_threshold": 0.44673682954589106,
-    "random_seed": 42,
-    "similarity_metric": "cosine_similarity",
-    "positive_class": "meaningful",
-    "negative_class": "nonmeaningful",
-    "classification_method": {
-        "clip": "image_text_cosine_similarity",
-        "logistic_regression": "tfidf_alt_text_classification"
-    }
+    "model_name": "openai/clip-vit-base-patch32",
+    "base_model": "openai/clip-vit-base-patch32",
+    "training_method": "contrastive_learning",
+    "loss_function": "symmetric_infonce_with_hard_negatives",
+    "caption_source": "BLIP",
+    "image_text_similarity": "cosine_similarity",
+    "similarity_threshold": 0.24574297666549683,
+    "batch_size": 32,
+    "epochs_completed": 3,
+    "learning_rate": 5e-06,
+    "weight_decay": 0.05,
+    "seed": 42,
+    "best_validation_loss": 0.6644387798649924,
+    "recall_at_1": 0.5273631811141968,
+    "recall_at_5": 0.8109452724456787,
+    "accuracy": 0.945273631840796,
+    "precision": 0.945273631840796,
+    "recall": 0.945273631840796,
+    "f1_score": 0.945273631840796,
+    "roc_auc": 0.9861637088190887
 }
