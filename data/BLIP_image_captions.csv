@@ -1,0 +1,1002 @@
+image_path,document_id,page_id,figure_id,blip_caption
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1001_figure_0.png,images,,doc_1001_figure_0,the key bank logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1002_figure_0.png,images,,doc_1002_figure_0,two men in suits standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1002_figure_1.png,images,,doc_1002_figure_1,a group of three men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1002_figure_2.png,images,,doc_1002_figure_2,a group of people standing next to each other people
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1004_figure_0.png,images,,doc_1004_figure_0,a man in a blue shirt and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1004_figure_1.png,images,,doc_1004_figure_1,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1004_figure_2.png,images,,doc_1004_figure_2,a bar chart showing the average cost of a home
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1007_figure_0.png,images,,doc_1007_figure_0,a black and white drawing of a fish
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1007_figure_1.png,images,,doc_1007_figure_1,a man in a suit and tie posing for a picture
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1008_figure_0.png,images,,doc_1008_figure_0,an image of a yellow background with a black and white image of a yellow background with a black and white
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1008_figure_1.png,images,,doc_1008_figure_1,a yellow background with a black and white logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1008_figure_2.png,images,,doc_1008_figure_2,the five - year compound of the five - year compound of the five - year compound of the five - year compound of the five - year
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1008_figure_3.png,images,,doc_1008_figure_3,a yellow background with a bar chart and a bar chart
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1008_figure_4.png,images,,doc_1008_figure_4,a yellow background with a bar chart and a bar chart
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1008_figure_5.png,images,,doc_1008_figure_5,a yellow background with a white line and a yellow background with a black line and a white line with a
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1008_figure_6.png,images,,doc_1008_figure_6,a yellow background with a bar chart and a bar chart
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1010_figure_0.png,images,,doc_1010_figure_0,two pictures of people standing in front of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1010_figure_1.png,images,,doc_1010_figure_1,a man in a hard hat standing next to a large pipe
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1010_figure_2.png,images,,doc_1010_figure_2,the collision inc logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1010_figure_3.png,images,,doc_1010_figure_3,the logo for ed harris ' s nyyse
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1012_figure_0.png,images,,doc_1012_figure_0,a group of people standing in a line
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1012_figure_1.png,images,,doc_1012_figure_1,a black and white image of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1013_figure_0.png,images,,doc_1013_figure_0,a group of people sitting in chairs in a room
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1013_figure_1.png,images,,doc_1013_figure_1,a group of people working in a factory
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1013_figure_2.png,images,,doc_1013_figure_2,a group of people sitting around a table in a room
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1013_figure_3.png,images,,doc_1013_figure_3,the inside of a factory with machinery and machinery
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1013_figure_4.png,images,,doc_1013_figure_4,two pictures of a machine and a machine
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1017_figure_0.png,images,,doc_1017_figure_0,the plane is on the runway
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1017_figure_1.png,images,,doc_1017_figure_1,the plane is white
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1017_figure_2.png,images,,doc_1017_figure_2,a small plane on a runway at sunset
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1017_figure_3.png,images,,doc_1017_figure_3,a tunnel in the middle of a tunnel
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1017_figure_4.png,images,,doc_1017_figure_4,a bunch of blue screws on a red background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1018_figure_0.png,images,,doc_1018_figure_0,the csx corporation logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1019_figure_0.png,images,,doc_1019_figure_0,a computer screen with an image of a flower on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1019_figure_1.png,images,,doc_1019_figure_1,a person is putting something into a paper sher
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1020_figure_0.png,images,,doc_1020_figure_0,metro metro metro metro metro metro metro metro metro metro metro metro metro metro metro metro metro metro metro metro metro
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1020_figure_1.png,images,,doc_1020_figure_1,the logo for the company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1020_figure_2.png,images,,doc_1020_figure_2,the logo for the university of charleston
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1023_figure_0.png,images,,doc_1023_figure_0,a bar chart showing the number of stocks in different markets
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1025_figure_0.png,images,,doc_1025_figure_0,a white lighthouse on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1029_figure_0.png,images,,doc_1029_figure_0,a picture of a building under construction and a picture of a building under construction
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_102_figure_0.png,images,,doc_102_figure_0,the floor is marble
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_102_figure_1.png,images,,doc_102_figure_1,the building is made of brick
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_102_figure_2.png,images,,doc_102_figure_2,a picture of a building with a lot of windows
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1032_figure_0.png,images,,doc_1032_figure_0,a crane is on the roof of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1035_figure_0.png,images,,doc_1035_figure_0,a map of the united with the states highlighted in red
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1039_figure_0.png,images,,doc_1039_figure_0,a black and white photo of a person ' s signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_103_figure_0.png,images,,doc_103_figure_0,a graph graph shows the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_103_figure_1.png,images,,doc_103_figure_1,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1043_figure_0.png,images,,doc_1043_figure_0,a bar chart showing the number of patients who have been diagnosed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1045_figure_0.png,images,,doc_1045_figure_0,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1053_figure_0.png,images,,doc_1053_figure_0,a man in a red shirt
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1055_figure_0.png,images,,doc_1055_figure_0,a pie chart with a pie pie in the middle and a pie pie in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1055_figure_1.png,images,,doc_1055_figure_1,a pie chart that shows the percentage of people living in the united
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1055_figure_2.png,images,,doc_1055_figure_2,a pie chart showing the percentage of people who are using their mobile phones
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1056_figure_0.png,images,,doc_1056_figure_0,the logo of the university of washington
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1058_figure_0.png,images,,doc_1058_figure_0,a black and white photo of a man ' s handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1059_figure_0.png,images,,doc_1059_figure_0,two pictures of a man working on a window
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1059_figure_1.png,images,,doc_1059_figure_1,a map with pins and pins on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1062_figure_0.png,images,,doc_1062_figure_0,a diagram showing the different types of hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1064_figure_0.png,images,,doc_1064_figure_0,"a black and white logo with the word, ` ` '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1067_figure_0.png,images,,doc_1067_figure_0,a black and white logo with the letter k on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_106_figure_0.png,images,,doc_106_figure_0,a picture of a cell phone and a cell phone
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_106_figure_1.png,images,,doc_106_figure_1,a man in a white shirt and tie sitting at a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1073_figure_0.png,images,,doc_1073_figure_0,a bar chart showing the percentage of the number of customers in each region
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1074_figure_0.png,images,,doc_1074_figure_0,a black and white photo of two wine glasses
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1076_figure_0.png,images,,doc_1076_figure_0,a sound wave on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1082_figure_0.png,images,,doc_1082_figure_0,the logo for caci
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1082_figure_1.png,images,,doc_1082_figure_1,the statue of liberty is silhouetted against a blue sky
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1082_figure_2.png,images,,doc_1082_figure_2,washington washington washington washington washington washington washington washington washington washington washington washington washington washington washington washington washington washington washington washington washington
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1083_figure_0.png,images,,doc_1083_figure_0,a blue square with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1083_figure_1.png,images,,doc_1083_figure_1,a person holding a credit card in their hand
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1084_figure_0.png,images,,doc_1084_figure_0,a woman sitting in front of a laptop computer
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1086_figure_0.png,images,,doc_1086_figure_0,a woman in a white jacket standing next to a body of water
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1087_figure_0.png,images,,doc_1087_figure_0,the first commonwealth logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1090_figure_0.png,images,,doc_1090_figure_0,a young boy sits at his desk in a classroom
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1091_figure_0.png,images,,doc_1091_figure_0,a bag of food that is sitting on top of a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1091_figure_1.png,images,,doc_1091_figure_1,a man holding up a box of food
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1093_figure_0.png,images,,doc_1093_figure_0,a group of people in suits and ties
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1095_figure_0.png,images,,doc_1095_figure_0,a bottle of fruit juice next to a bottle of fruit juice
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1098_figure_0.png,images,,doc_1098_figure_0,the cover of bare group ' s new album
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_109_figure_0.png,images,,doc_109_figure_0,the redlever logo on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_10_figure_0.png,images,,doc_10_figure_0,a picture of a gorilla on the screen
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1101_figure_0.png,images,,doc_1101_figure_0,a group of men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1101_figure_1.png,images,,doc_1101_figure_1,a group of men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1101_figure_2.png,images,,doc_1101_figure_2,a group of men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1101_figure_3.png,images,,doc_1101_figure_3,a group of men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1101_figure_4.png,images,,doc_1101_figure_4,a group of men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1102_figure_0.png,images,,doc_1102_figure_0,a bar chart showing the number of people who have been diagnosed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1105_figure_0.png,images,,doc_1105_figure_0,a black and white photo of a seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal seal
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1105_figure_1.png,images,,doc_1105_figure_1,a black and white logo with the words
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1105_figure_2.png,images,,doc_1105_figure_2,a black and white image of the state of kentucky
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1105_figure_3.png,images,,doc_1105_figure_3,a black and white logo with the words
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1105_figure_4.png,images,,doc_1105_figure_4,a black and white logo with the word california on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1112_figure_0.png,images,,doc_1112_figure_0,the csx logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1114_figure_0.png,images,,doc_1114_figure_0,an orange and gray color palette
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1115_figure_0.png,images,,doc_1115_figure_0,a bar chart showing the number of workers in india
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1115_figure_1.png,images,,doc_1115_figure_1,a black and white photo of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1117_figure_0.png,images,,doc_1117_figure_0,a line graph shows the number of people who are using the internet
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1121_figure_0.png,images,,doc_1121_figure_0,the logo for the liberty national library
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1124_figure_0.png,images,,doc_1124_figure_0,a black and white photograph of a man ' s handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1124_figure_1.png,images,,doc_1124_figure_1,a black and white photo of a handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1124_figure_2.png,images,,doc_1124_figure_2,a black and white image of a sound wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1131_figure_0.png,images,,doc_1131_figure_0,an image of the earth with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1131_figure_1.png,images,,doc_1131_figure_1,a large building with a flag on top of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1134_figure_0.png,images,,doc_1134_figure_0,three different types of hydraulic valves
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1134_figure_1.png,images,,doc_1134_figure_1,hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1134_figure_2.png,images,,doc_1134_figure_2,a black cylinder with a white background and a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1134_figure_3.png,images,,doc_1134_figure_3,an image of a man on a surfboard in the ocean
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1135_figure_0.png,images,,doc_1135_figure_0,the logo for enbridge
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1139_figure_0.png,images,,doc_1139_figure_0,a black and white photo of a person ' s handwriting
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_113_figure_0.png,images,,doc_113_figure_0,a black and white photo of a factory
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1142_figure_0.png,images,,doc_1142_figure_0,a black and white logo with the words making up
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1142_figure_1.png,images,,doc_1142_figure_1,a black and white photo of a woman ' s handwritten name
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1143_figure_0.png,images,,doc_1143_figure_0,a black and white line drawing of a wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1143_figure_1.png,images,,doc_1143_figure_1,a black and white image of a heartbeat
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1143_figure_2.png,images,,doc_1143_figure_2,a black and white photo of a man ' s signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1143_figure_3.png,images,,doc_1143_figure_3,a black and white drawing of a man ' s face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1144_figure_0.png,images,,doc_1144_figure_0,a view of a body of water with a mountain in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1146_figure_0.png,images,,doc_1146_figure_0,a map showing the locations of different countries
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1148_figure_0.png,images,,doc_1148_figure_0,a man sitting in front of a computer
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1148_figure_1.png,images,,doc_1148_figure_1,a group of different types of dental equipment
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1150_figure_0.png,images,,doc_1150_figure_0,"a white background with a black and white text that says,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1152_figure_0.png,images,,doc_1152_figure_0,an image of a computer screen with a bar chart on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1152_figure_1.png,images,,doc_1152_figure_1,a graph shows the number of people who have lived in the area
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1152_figure_2.png,images,,doc_1152_figure_2,the cover of a book with a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1152_figure_3.png,images,,doc_1152_figure_3,the cover of a book with a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1153_figure_0.png,images,,doc_1153_figure_0,a man sitting at a desk in front of a blackboard
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1153_figure_1.png,images,,doc_1153_figure_1,a man in a suit and tie standing in front of a bookcase
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1153_figure_2.png,images,,doc_1153_figure_2,a black background with blue lines and a black background with blue lines and a black background with a blue line
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1153_figure_3.png,images,,doc_1153_figure_3,a black background with a blue glow on the bottom of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1154_figure_0.png,images,,doc_1154_figure_0,the cbz logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_115_figure_0.png,images,,doc_115_figure_0,a parking lot with cars parked in it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1162_figure_0.png,images,,doc_1162_figure_0,a man kneeling on the ground with a plant in his hand
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1163_figure_0.png,images,,doc_1163_figure_0,a man sitting at a desk using a computer
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1163_figure_1.png,images,,doc_1163_figure_1,a blue bowl filled with chili and cheese
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1171_figure_0.png,images,,doc_1171_figure_0,the logos of various brands
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1171_figure_1.png,images,,doc_1171_figure_1,"the logos of various brands, including rl, rl, rl, rl and rl"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1171_figure_2.png,images,,doc_1171_figure_2,the logos of different brands
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1173_figure_0.png,images,,doc_1173_figure_0,a group of people in a circle with a yellow background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1175_figure_0.png,images,,doc_1175_figure_0,a close up of a ceiling fan
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1175_figure_1.png,images,,doc_1175_figure_1,a fire truck with flames coming out of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1175_figure_2.png,images,,doc_1175_figure_2,a close up of a pile of white corn kernels
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1175_figure_3.png,images,,doc_1175_figure_3,a cal cal cal cal cal cal cal cal cal cal cal cal cal cal cal cal cal cal cal cal
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1175_figure_4.png,images,,doc_1175_figure_4,tub tub tub tub tub tub tub tub tub tub tub tub tub tub tub tub tub tub tub tub tub
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1175_figure_5.png,images,,doc_1175_figure_5,hydraulic hydraulics hydraulics hydraulics hydraulics hydraulics hydraulics hydraulics hydraulics hydraulics hydraulics hydraulics hydraulics hydraulics hydraulic
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1175_figure_6.png,images,,doc_1175_figure_6,a flyer with a bunch of different types of electrical equipment
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1175_figure_7.png,images,,doc_1175_figure_7,an image of a bunch of different types of electrical equipment
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1179_figure_0.png,images,,doc_1179_figure_0,office space available for rent
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1179_figure_1.png,images,,doc_1179_figure_1,a pie chart showing the percentage of income
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1182_figure_0.png,images,,doc_1182_figure_0,a large room filled with lots of television screens
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1189_figure_0.png,images,,doc_1189_figure_0,a man in a suit and tie standing next to a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1189_figure_1.png,images,,doc_1189_figure_1,an image of a number of circles with the same number of circles
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1190_figure_0.png,images,,doc_1190_figure_0,an image of a bar chart with the number of the bars and the number of each bars
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1190_figure_1.png,images,,doc_1190_figure_1,a diagram showing the number of different types of the different types of the different types of the different types of
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1193_figure_0.png,images,,doc_1193_figure_0,a notebook with a pen on top of it next to a cal cal cal cal cal cal cal cal cal cal cal cal cal cal cal cal
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1196_figure_0.png,images,,doc_1196_figure_0,a black and white logo with the words ' king up '
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_119_figure_0.png,images,,doc_119_figure_0,a woman with braces on her teeth
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_119_figure_1.png,images,,doc_119_figure_1,a young man in a gray shirt and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1203_figure_0.png,images,,doc_1203_figure_0,a group of people in a swimming pool
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1203_figure_1.png,images,,doc_1203_figure_1,a woman in a bathrobe drinking a cup of coffee
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1207_figure_0.png,images,,doc_1207_figure_0,a red and white logo with the word rolling on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1207_figure_1.png,images,,doc_1207_figure_1,a man in a white hat holding a gun
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1208_figure_0.png,images,,doc_1208_figure_0,a blue and white logo with the letter b in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1209_figure_0.png,images,,doc_1209_figure_0,a group of people sitting at a table in a restaurant
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_120_figure_0.png,images,,doc_120_figure_0,quick logic quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1211_figure_0.png,images,,doc_1211_figure_0,"a blue and white logo with the words, ` ` ', ' ' ' ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', and ', and '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1211_figure_1.png,images,,doc_1211_figure_1,a man and a woman standing behind a podium
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_0.png,images,,doc_1221_figure_0,tune it in logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_1.png,images,,doc_1221_figure_1,a couple posing for a photo in front of a green background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_2.png,images,,doc_1221_figure_2,a picture of a man singing into a microphone
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_3.png,images,,doc_1221_figure_3,the four faces of a man in different colors
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_4.png,images,,doc_1221_figure_4,a picture of two people sitting on a bench
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_5.png,images,,doc_1221_figure_5,a picture of a person with headphones on
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_6.png,images,,doc_1221_figure_6,a black and white photo of a group of people
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_7.png,images,,doc_1221_figure_7,a woman in a dress is sitting on the floor
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1221_figure_8.png,images,,doc_1221_figure_8,a group of pictures of baseball players on a field
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1223_figure_0.png,images,,doc_1223_figure_0,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1223_figure_1.png,images,,doc_1223_figure_1,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1223_figure_2.png,images,,doc_1223_figure_2,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1223_figure_3.png,images,,doc_1223_figure_3,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1230_figure_0.png,images,,doc_1230_figure_0,a bar chart showing the number of people who have been diagnosed in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1230_figure_1.png,images,,doc_1230_figure_1,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1233_figure_0.png,images,,doc_1233_figure_0,a man in a white shirt and blue tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1235_figure_0.png,images,,doc_1235_figure_0,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1235_figure_1.png,images,,doc_1235_figure_1,a bar chart showing the percentage of the number of people living in europe
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1237_figure_0.png,images,,doc_1237_figure_0,a green sign with a bar chart on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1237_figure_1.png,images,,doc_1237_figure_1,a green sign with a bar chart on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1240_figure_0.png,images,,doc_1240_figure_0,a book cover with a group of children sitting at desks in a classroom
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1240_figure_1.png,images,,doc_1240_figure_1,a police officer helping a young boy with a baseball bat
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1240_figure_2.png,images,,doc_1240_figure_2,a field of green grass with a blue circle in the center
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1242_figure_0.png,images,,doc_1242_figure_0,a group of men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1243_figure_0.png,images,,doc_1243_figure_0,a black and white logo with the words ' king up '
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1246_figure_0.png,images,,doc_1246_figure_0,the alexandria logo on a gray background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1248_figure_0.png,images,,doc_1248_figure_0,a silver car driving down the road
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1248_figure_1.png,images,,doc_1248_figure_1,a diagram showing the different phases of the project
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1252_figure_0.png,images,,doc_1252_figure_0,a man in a suit and tie standing in front of a white wall
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_0.png,images,,doc_1253_figure_0,a man in a suit and tie with a mustache
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_1.png,images,,doc_1253_figure_1,an older man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_10.png,images,,doc_1253_figure_10,a man in a suit and tie with glasses
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_11.png,images,,doc_1253_figure_11,a man in a suit and tie with glasses
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_12.png,images,,doc_1253_figure_12,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_13.png,images,,doc_1253_figure_13,a man in a suit and tie smiling
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_14.png,images,,doc_1253_figure_14,a man in a suit and tie smiling
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_2.png,images,,doc_1253_figure_2,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_3.png,images,,doc_1253_figure_3,a man in a suit and tie with glasses
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_4.png,images,,doc_1253_figure_4,a man in a suit and tie with glasses
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_5.png,images,,doc_1253_figure_5,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_6.png,images,,doc_1253_figure_6,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_7.png,images,,doc_1253_figure_7,an older man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_8.png,images,,doc_1253_figure_8,a man in a suit and tie with a mustache
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1253_figure_9.png,images,,doc_1253_figure_9,a man in a suit and tie posing for a photo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1254_figure_0.png,images,,doc_1254_figure_0,the logo for expeditionss
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1255_figure_0.png,images,,doc_1255_figure_0,a map showing the routes of the us and canada
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1257_figure_0.png,images,,doc_1257_figure_0,a painting of a large white object in the middle of a desert
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1258_figure_0.png,images,,doc_1258_figure_0,a picture of a man holding a piece of bread
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_0.png,images,,doc_1260_figure_0,the logo for gardenia
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_1.png,images,,doc_1260_figure_1,the logo of the french cheese company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_2.png,images,,doc_1260_figure_2,the logo of the fundraiser
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_3.png,images,,doc_1260_figure_3,the logo for dragone entertainment
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_4.png,images,,doc_1260_figure_4,the logo for saputo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_5.png,images,,doc_1260_figure_5,the logo of the fundraiser
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_6.png,images,,doc_1260_figure_6,fr ' s fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr fr
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_7.png,images,,doc_1260_figure_7,stella ' s logo on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_8.png,images,,doc_1260_figure_8,a bag of dog food sitting on top of a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1260_figure_9.png,images,,doc_1260_figure_9,a bag of cheese with a piece of cheese next to it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1262_figure_0.png,images,,doc_1262_figure_0,a white advertisement with two bottles of skin care products
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1262_figure_1.png,images,,doc_1262_figure_1,a white ribbon on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1262_figure_2.png,images,,doc_1262_figure_2,a black and white photo of a man in a white shirt
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1262_figure_3.png,images,,doc_1262_figure_3,a black and white photo of a woman and a child
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1263_figure_0.png,images,,doc_1263_figure_0,a silver watch on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1263_figure_1.png,images,,doc_1263_figure_1,a group of people walking down a city street
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1265_figure_0.png,images,,doc_1265_figure_0,a black and white photo of a white star
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1270_figure_0.png,images,,doc_1270_figure_0,an image of a cd player ' s disk
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1270_figure_1.png,images,,doc_1270_figure_1,a white plastic bottle on a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1270_figure_2.png,images,,doc_1270_figure_2,a bottle of water sitting on top of a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1270_figure_3.png,images,,doc_1270_figure_3,a diagram of an industrial water treatment system
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1272_figure_0.png,images,,doc_1272_figure_0,a large pile of tins of tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin tin
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1275_figure_0.png,images,,doc_1275_figure_0,a bar chart showing the number of devices that have been tested
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1278_figure_0.png,images,,doc_1278_figure_0,a bar chart showing the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1278_figure_1.png,images,,doc_1278_figure_1,a pie chart showing the percentage of the total market capital
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1279_figure_0.png,images,,doc_1279_figure_0,a black and white image of a sound wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1279_figure_1.png,images,,doc_1279_figure_1,a black and white photo of a man ' s face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1282_figure_0.png,images,,doc_1282_figure_0,a store filled with lots of toys and stuffed animals
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1286_figure_0.png,images,,doc_1286_figure_0,an image of the mars rover rover rover rover rover rover rover rover rover rover rover rover rover rover rover rover
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1286_figure_1.png,images,,doc_1286_figure_1,a picture of a man and woman in a car
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1286_figure_2.png,images,,doc_1286_figure_2,a picture of a man standing on top of a pole with the sun in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1286_figure_3.png,images,,doc_1286_figure_3,a purple balloon on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1286_figure_4.png,images,,doc_1286_figure_4,a close up of a yellow button on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1286_figure_5.png,images,,doc_1286_figure_5,a green button on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1288_figure_0.png,images,,doc_1288_figure_0,camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden camden
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1293_figure_0.png,images,,doc_1293_figure_0,a blue and white logo with the letter u in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1299_figure_0.png,images,,doc_1299_figure_0,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1305_figure_0.png,images,,doc_1305_figure_0,a person is working on a machine
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1305_figure_1.png,images,,doc_1305_figure_1,a man working on a piece of metal
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1307_figure_0.png,images,,doc_1307_figure_0,a black and white photo of a rain shower
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_130_figure_0.png,images,,doc_130_figure_0,two women walking down the sidewalk in front of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_130_figure_1.png,images,,doc_130_figure_1,the outside of a restaurant with tables and chairs
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1311_figure_0.png,images,,doc_1311_figure_0,the logo of the world bank
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1316_figure_0.png,images,,doc_1316_figure_0,a man in a suit and tie standing next to another man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1317_figure_0.png,images,,doc_1317_figure_0,nest nest nest nest nest nest nest nest nest nest nest nest nest nest nest nest nest nest nest nest nest
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1317_figure_1.png,images,,doc_1317_figure_1,"the simpsons and the simpsons cereal cereal, person, person, person, person, person, person, person"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1318_figure_0.png,images,,doc_1318_figure_0,a man in a blue shirt and tie standing next to a man in a black suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_131_figure_0.png,images,,doc_131_figure_0,a bottle of beer sitting on top of a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1320_figure_0.png,images,,doc_1320_figure_0,quick logic logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1321_figure_0.png,images,,doc_1321_figure_0,the building is lit up at night
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1321_figure_1.png,images,,doc_1321_figure_1,two men in suits and ties standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1331_figure_0.png,images,,doc_1331_figure_0,a black background with the word exo on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1337_figure_0.png,images,,doc_1337_figure_0,a picture of a man in a uniform
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1337_figure_1.png,images,,doc_1337_figure_1,a picture of a city with a train going over it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1338_figure_0.png,images,,doc_1338_figure_0,the emor logo on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1338_figure_1.png,images,,doc_1338_figure_1,"a black and white logo with the words, i ' m, i ' m, and i ' m"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_134_figure_0.png,images,,doc_134_figure_0,a man sitting in a chair reading a book
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1352_figure_0.png,images,,doc_1352_figure_0,the ian celestial group logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1352_figure_1.png,images,,doc_1352_figure_1,a group of logos with the names of different countries
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1352_figure_2.png,images,,doc_1352_figure_2,a poster with a number of different logos on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1353_figure_0.png,images,,doc_1353_figure_0,the logo for the company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1353_figure_1.png,images,,doc_1353_figure_1,a black and white photo of the tcb logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1353_figure_2.png,images,,doc_1353_figure_2,the tcf logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1367_figure_0.png,images,,doc_1367_figure_0,the logo for your business just easier
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_136_figure_0.png,images,,doc_136_figure_0,the cheesecake factory
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1373_figure_0.png,images,,doc_1373_figure_0,a large display of canned food in a supermarket
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1373_figure_1.png,images,,doc_1373_figure_1,the inside of a factory with lots of machines
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1373_figure_2.png,images,,doc_1373_figure_2,a group of people sitting around a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1373_figure_3.png,images,,doc_1373_figure_3,a variety of food items on a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1379_figure_0.png,images,,doc_1379_figure_0,a black and white logo with the words old navy
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1379_figure_1.png,images,,doc_1379_figure_1,a black and white photo of a person ' s handwriting
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1379_figure_2.png,images,,doc_1379_figure_2,marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott marriott
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_137_figure_0.png,images,,doc_137_figure_0,master master master master master master master master master master master master master master master master master master master master master
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1384_figure_0.png,images,,doc_1384_figure_0,the signature of the president of the united states
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_138_figure_0.png,images,,doc_138_figure_0,a logo with the letter a in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1392_figure_0.png,images,,doc_1392_figure_0,a white building with a clock on top of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1392_figure_1.png,images,,doc_1392_figure_1,a group of people walking around a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1392_figure_2.png,images,,doc_1392_figure_2,the exterior of a target outlet store
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1396_figure_0.png,images,,doc_1396_figure_0,a young boy sitting on top of a desk
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1397_figure_0.png,images,,doc_1397_figure_0,"a black and white logo with the words new york, ny, ny, ny, ny, ny, ny, ny, ny, ny"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1398_figure_0.png,images,,doc_1398_figure_0,a black and white checklist on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1401_figure_0.png,images,,doc_1401_figure_0,a line graph shows the number of historical newspapers in the united states
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1401_figure_1.png,images,,doc_1401_figure_1,a black and white photo of a bar chart with the number of gold prices
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1403_figure_0.png,images,,doc_1403_figure_0,a blue and white bar chart with the number of people on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1405_figure_0.png,images,,doc_1405_figure_0,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1405_figure_1.png,images,,doc_1405_figure_1,a man in a suit and tie smiling at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1409_figure_0.png,images,,doc_1409_figure_0,the view of the city from the roof of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_140_figure_0.png,images,,doc_140_figure_0,a map showing the routes of the tour de france
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1410_figure_0.png,images,,doc_1410_figure_0,a black and white photo of a group of people working in a laboratory
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1414_figure_0.png,images,,doc_1414_figure_0,a black and white photo of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1414_figure_1.png,images,,doc_1414_figure_1,a black and white photo of a man ' s handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1415_figure_0.png,images,,doc_1415_figure_0,actvisionon logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_141_figure_0.png,images,,doc_141_figure_0,the logo for the university of michigan
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1420_figure_0.png,images,,doc_1420_figure_0,a cork cork notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice notice
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1426_figure_0.png,images,,doc_1426_figure_0,a large room filled with tables and chairs
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1426_figure_1.png,images,,doc_1426_figure_1,a man in a suit talking to another man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1426_figure_2.png,images,,doc_1426_figure_2,a pie with a pie pie in the middle of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1427_figure_0.png,images,,doc_1427_figure_0,a pie chart showing the number of different types of materials
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1428_figure_0.png,images,,doc_1428_figure_0,a man in a white shirt and a man in a blue tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1430_figure_0.png,images,,doc_1430_figure_0,a black and white logo with the words working up
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1442_figure_0.png,images,,doc_1442_figure_0,a group of young men standing next to each other boys
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1442_figure_1.png,images,,doc_1442_figure_1,a group of kids standing in front of a sign
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1442_figure_2.png,images,,doc_1442_figure_2,a group of people running in a race
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1442_figure_3.png,images,,doc_1442_figure_3,a man riding a bike down a street
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1443_figure_0.png,images,,doc_1443_figure_0,a blue background with the words x2 and x2 on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1450_figure_0.png,images,,doc_1450_figure_0,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1450_figure_1.png,images,,doc_1450_figure_1,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1450_figure_2.png,images,,doc_1450_figure_2,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1452_figure_0.png,images,,doc_1452_figure_0,a black background with a gold border
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1452_figure_1.png,images,,doc_1452_figure_1,a machine that is used to make sand
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1452_figure_2.png,images,,doc_1452_figure_2,a truck with a crane attached to the back of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1452_figure_3.png,images,,doc_1452_figure_3,a crusher is a machine used to crush rocks and other minerals
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1452_figure_4.png,images,,doc_1452_figure_4,concrete batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch batch
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1452_figure_5.png,images,,doc_1452_figure_5,an aerial view of a farm with a barn in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1453_figure_0.png,images,,doc_1453_figure_0,capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital capital
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1456_figure_0.png,images,,doc_1456_figure_0,a group of people sitting next to each other people
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1456_figure_1.png,images,,doc_1456_figure_1,a man and woman standing next to each other people
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1461_figure_0.png,images,,doc_1461_figure_0,a blue and white logo with the letter d on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_0.png,images,,doc_1466_figure_0,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_1.png,images,,doc_1466_figure_1,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_10.png,images,,doc_1466_figure_10,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_11.png,images,,doc_1466_figure_11,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_2.png,images,,doc_1466_figure_2,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_3.png,images,,doc_1466_figure_3,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_4.png,images,,doc_1466_figure_4,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_5.png,images,,doc_1466_figure_5,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_6.png,images,,doc_1466_figure_6,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_7.png,images,,doc_1466_figure_7,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_8.png,images,,doc_1466_figure_8,a black and white photo of a woman
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1466_figure_9.png,images,,doc_1466_figure_9,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1480_figure_0.png,images,,doc_1480_figure_0,a map of canada with the provincess and provincess highlighted in red
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1487_figure_0.png,images,,doc_1487_figure_0,the differential differential assembly is shown in this image
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1492_figure_0.png,images,,doc_1492_figure_0,a red and white logo with the word rollinss on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1493_figure_0.png,images,,doc_1493_figure_0,a blue background with the chemical structure of a molecule
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1493_figure_1.png,images,,doc_1493_figure_1,a drawing of a flower on a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1496_figure_0.png,images,,doc_1496_figure_0,a line graph showing the number of canadian revenue revenues
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1496_figure_1.png,images,,doc_1496_figure_1,a line graph showing the average rate of canadian averages
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1496_figure_2.png,images,,doc_1496_figure_2,a line graph shows the number of people in canada and the number of people in the country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1502_figure_0.png,images,,doc_1502_figure_0,a group of people standing in front of a painting
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1504_figure_0.png,images,,doc_1504_figure_0,a black and white drawing of a bird on a branch
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1505_figure_0.png,images,,doc_1505_figure_0,a yellow k logo on a gray background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1505_figure_1.png,images,,doc_1505_figure_1,a black and white photo of a group of men in suits
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1506_figure_0.png,images,,doc_1506_figure_0,a white lighthouse with a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1508_figure_0.png,images,,doc_1508_figure_0,a line graph shows the decline in the number of people in the united
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1509_figure_0.png,images,,doc_1509_figure_0,the cover of a book with an image of a globe in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1512_figure_0.png,images,,doc_1512_figure_0,a computer screen with a document on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1515_figure_0.png,images,,doc_1515_figure_0,a drawing of a bird on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1517_figure_0.png,images,,doc_1517_figure_0,a bar chart showing the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1517_figure_1.png,images,,doc_1517_figure_1,a bar chart showing the average cost of a home
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1517_figure_2.png,images,,doc_1517_figure_2,a bar chart showing the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1517_figure_3.png,images,,doc_1517_figure_3,a bar graph shows the number of people who have been in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1517_figure_4.png,images,,doc_1517_figure_4,a line graph showing the price of a home in the united states
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1520_figure_0.png,images,,doc_1520_figure_0,a black and white photo of a man in front of a laptop
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1520_figure_1.png,images,,doc_1520_figure_1,a laptop computer sitting on top of a desk
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1520_figure_2.png,images,,doc_1520_figure_2,a diagram showing the number of chromosomes in each species
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1520_figure_3.png,images,,doc_1520_figure_3,a diagram showing the number of chromosomes and chromosomes
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1526_figure_0.png,images,,doc_1526_figure_0,a black and white logo with the word slaurs
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1526_figure_1.png,images,,doc_1526_figure_1,an image of a barcode on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1529_figure_0.png,images,,doc_1529_figure_0,a bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald bald
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1529_figure_1.png,images,,doc_1529_figure_1,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1530_figure_0.png,images,,doc_1530_figure_0,a bunch of golf hats on display in a glass case
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1530_figure_1.png,images,,doc_1530_figure_1,the keybank logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1532_figure_0.png,images,,doc_1532_figure_0,a red circle with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1533_figure_0.png,images,,doc_1533_figure_0,a meter on a red wall with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1535_figure_0.png,images,,doc_1535_figure_0,a black triangle with three smaller triangles in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1535_figure_1.png,images,,doc_1535_figure_1,a black and white drawing of an eagle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1536_figure_0.png,images,,doc_1536_figure_0,a black and white photo with the words nip ' n ' n ' n ' n ' n ' n ' n ' n ' n ' n ' n ' n ' n ' n ' n ' n ' n
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1536_figure_1.png,images,,doc_1536_figure_1,a black and white photo of a man ' s signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1536_figure_2.png,images,,doc_1536_figure_2,a black and white photo of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1537_figure_0.png,images,,doc_1537_figure_0,two plates of food on a red table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1545_figure_0.png,images,,doc_1545_figure_0,the logo for the 2011 division
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1555_figure_0.png,images,,doc_1555_figure_0,the inside of a mall with people walking around it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1555_figure_1.png,images,,doc_1555_figure_1,a picture of a building with a sign on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1555_figure_2.png,images,,doc_1555_figure_2,a man walking down the street in front of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1555_figure_3.png,images,,doc_1555_figure_3,the front of a building with a sign on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1555_figure_4.png,images,,doc_1555_figure_4,a shopping mall with a fountain in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1561_figure_0.png,images,,doc_1561_figure_0,the cover of barnes group ' s book
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1566_figure_0.png,images,,doc_1566_figure_0,brooks automation logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1572_figure_0.png,images,,doc_1572_figure_0,two women sitting at a table with newspapers
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1574_figure_0.png,images,,doc_1574_figure_0,"a black and white image of the words, ` ` `, ' `, ' ' `, ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', and '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1578_figure_0.png,images,,doc_1578_figure_0,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1583_figure_0.png,images,,doc_1583_figure_0,two men looking at a piece of metal
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1596_figure_0.png,images,,doc_1596_figure_0,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1599_figure_0.png,images,,doc_1599_figure_0,a black and white photo of two men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_159_figure_0.png,images,,doc_159_figure_0,a bar chart showing the number of different types of cakes and pastries
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_159_figure_1.png,images,,doc_159_figure_1,a bar chart showing the number of different types of cakes and pastries
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_159_figure_2.png,images,,doc_159_figure_2,a bar chart showing the number of different types of implants
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_159_figure_3.png,images,,doc_159_figure_3,a bar chart showing the number of different desserts
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_15_figure_0.png,images,,doc_15_figure_0,a man sitting on a bench in front of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_15_figure_1.png,images,,doc_15_figure_1,a group of people walking in front of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1604_figure_0.png,images,,doc_1604_figure_0,a bar chart showing the number of stars on a red background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1604_figure_1.png,images,,doc_1604_figure_1,a bar chart with the number of stars on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1604_figure_2.png,images,,doc_1604_figure_2,a bar chart showing the number of stars on a red background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1608_figure_0.png,images,,doc_1608_figure_0,two men sitting at a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1608_figure_1.png,images,,doc_1608_figure_1,a factory with a lot of smoke coming out of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1608_figure_2.png,images,,doc_1608_figure_2,a large building with a lot of pipes
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1612_figure_0.png,images,,doc_1612_figure_0,a black and white line drawing of a wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1612_figure_1.png,images,,doc_1612_figure_1,a black and white photo of a handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1614_figure_0.png,images,,doc_1614_figure_0,a bar chart showing the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1615_figure_0.png,images,,doc_1615_figure_0,the logo for barnes group
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1619_figure_0.png,images,,doc_1619_figure_0,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_161_figure_0.png,images,,doc_161_figure_0,the cpt logo on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1626_figure_0.png,images,,doc_1626_figure_0,a bar chart showing the number of people who have been diagnosed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1626_figure_1.png,images,,doc_1626_figure_1,a bar chart showing the number of patients in each of the patients
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1627_figure_0.png,images,,doc_1627_figure_0,a couple standing on the stairs of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1627_figure_1.png,images,,doc_1627_figure_1,a man and woman sitting at a table in a restaurant
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_162_figure_0.png,images,,doc_162_figure_0,a woman sitting on a couch in a living room
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1632_figure_0.png,images,,doc_1632_figure_0,a man in a suit and tie holding a woman ' s hand
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1636_figure_0.png,images,,doc_1636_figure_0,a black and white photo of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1636_figure_1.png,images,,doc_1636_figure_1,a black and white photo of a handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1636_figure_2.png,images,,doc_1636_figure_2,a black and white photo of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1639_figure_0.png,images,,doc_1639_figure_0,tyson foods logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1639_figure_1.png,images,,doc_1639_figure_1,tyson foods logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1650_figure_0.png,images,,doc_1650_figure_0,a man standing in front of a service desk
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1655_figure_0.png,images,,doc_1655_figure_0,a picture of a city at night and a picture of a city at night
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1655_figure_1.png,images,,doc_1655_figure_1,a black and white drawing of a woman ' s face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1659_figure_0.png,images,,doc_1659_figure_0,an aerial view of a large building with a lot of trees in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1659_figure_1.png,images,,doc_1659_figure_1,a black background with a gold border and a gold border
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1659_figure_2.png,images,,doc_1659_figure_2,a group of pictures showing different types of solar panels
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1659_figure_3.png,images,,doc_1659_figure_3,a machine that is used to make paper and other materials
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1659_figure_4.png,images,,doc_1659_figure_4,a large white machine with a red stripe on it ' s side
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1659_figure_5.png,images,,doc_1659_figure_5,a picture of a machine with a blue background and a picture of a machine with a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1667_figure_0.png,images,,doc_1667_figure_0,the cover of bares group ' s new album
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1668_figure_0.png,images,,doc_1668_figure_0,a map showing the locations of the countries
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1669_figure_0.png,images,,doc_1669_figure_0,a black and white photo of an aerial view of a city
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1675_figure_0.png,images,,doc_1675_figure_0,a pie chart showing the percentages of the percentages
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1686_figure_0.png,images,,doc_1686_figure_0,a drawing of a group of people standing in a circle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1686_figure_1.png,images,,doc_1686_figure_1,a group of men standing around a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_168_figure_0.png,images,,doc_168_figure_0,a group of cartoon characters standing in front of a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1691_figure_0.png,images,,doc_1691_figure_0,a diagram showing the number of chromosomes in each species
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1691_figure_1.png,images,,doc_1691_figure_1,an image of a man on top of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1691_figure_2.png,images,,doc_1691_figure_2,a large ship with a crane on it ' s side
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1691_figure_3.png,images,,doc_1691_figure_3,a black and white photo of a man in a tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1692_figure_0.png,images,,doc_1692_figure_0,a view of a street with cars parked on the side of the road
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1692_figure_1.png,images,,doc_1692_figure_1,a stone sign with the name of a city
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1694_figure_0.png,images,,doc_1694_figure_0,a black and white photo of a handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1694_figure_1.png,images,,doc_1694_figure_1,a black and white drawing of a spiral
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1695_figure_0.png,images,,doc_1695_figure_0,"a table with two columns, one column and one column in the same column"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1698_figure_0.png,images,,doc_1698_figure_0,a person using a brush to clean the floor
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1698_figure_1.png,images,,doc_1698_figure_1,a display case with a variety of products in it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1698_figure_2.png,images,,doc_1698_figure_2,a painting of a woman in a red top
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1698_figure_3.png,images,,doc_1698_figure_3,the logo for minwax
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1698_figure_4.png,images,,doc_1698_figure_4,a person using a paint brush to paint a piece of wood
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_169_figure_0.png,images,,doc_169_figure_0,the tail of an airplane
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1700_figure_0.png,images,,doc_1700_figure_0,a map of the united with the states highlighted in pink and blue
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1701_figure_0.png,images,,doc_1701_figure_0,an image of a blue and white line with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1702_figure_0.png,images,,doc_1702_figure_0,a man in a suit and tie standing in front of a door
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1702_figure_1.png,images,,doc_1702_figure_1,a black and white drawing of a bird on a beige background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1702_figure_2.png,images,,doc_1702_figure_2,"a diagram with the words volume to value, volume to value, volume to value, and volume to value"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1706_figure_0.png,images,,doc_1706_figure_0,an image of a black and white camera on a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1706_figure_1.png,images,,doc_1706_figure_1,a tennis racket with a ball on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1706_figure_2.png,images,,doc_1706_figure_2,a picture of a fan on a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1706_figure_3.png,images,,doc_1706_figure_3,an image of a black front bumper cover for a car
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1707_figure_0.png,images,,doc_1707_figure_0,a bottle of perfume on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1707_figure_1.png,images,,doc_1707_figure_1,an image of a bottle of perfume on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1707_figure_2.png,images,,doc_1707_figure_2,a bottle of perfume on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1707_figure_3.png,images,,doc_1707_figure_3,a bottle of perfume sitting on top of a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_170_figure_0.png,images,,doc_170_figure_0,a bar chart showing the number of people who have been diagnosed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_170_figure_1.png,images,,doc_170_figure_1,a bar chart showing the percentage of managed risk
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1714_figure_0.png,images,,doc_1714_figure_0,a man in a suit and tie standing in front of a painting
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1714_figure_1.png,images,,doc_1714_figure_1,a man in a suit and tie standing next to another man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1714_figure_2.png,images,,doc_1714_figure_2,a group of people standing in front of a sign
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1716_figure_0.png,images,,doc_1716_figure_0,a group of men standing in front of a staircase
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1720_figure_0.png,images,,doc_1720_figure_0,two men in suits and ties standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1720_figure_1.png,images,,doc_1720_figure_1,a man and a woman laying in bed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1729_figure_0.png,images,,doc_1729_figure_0,a pink heart on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1729_figure_1.png,images,,doc_1729_figure_1,a green circle with a picture of two men and a woman
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1731_figure_0.png,images,,doc_1731_figure_0,two men sitting at a desk in an office
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1736_figure_0.png,images,,doc_1736_figure_0,a black and white photo of a man in a white shirt and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1736_figure_1.png,images,,doc_1736_figure_1,a black and white photo of a smiling man
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1736_figure_2.png,images,,doc_1736_figure_2,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1739_figure_0.png,images,,doc_1739_figure_0,a black and white photo of a bunch of keys
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1739_figure_1.png,images,,doc_1739_figure_1,the cover of a book with a picture of an electronic circuit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1739_figure_2.png,images,,doc_1739_figure_2,an image of a micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1748_figure_0.png,images,,doc_1748_figure_0,a large white building with a palm tree in front of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1748_figure_1.png,images,,doc_1748_figure_1,a pink house with a blue sky in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1748_figure_2.png,images,,doc_1748_figure_2,a tall building with a blue sky in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1748_figure_3.png,images,,doc_1748_figure_3,victoria ' s secret shop
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1748_figure_4.png,images,,doc_1748_figure_4,an image of a building with a red background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1748_figure_5.png,images,,doc_1748_figure_5,an image of a building with trees growing out of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1748_figure_6.png,images,,doc_1748_figure_6,a bus is parked in front of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_174_figure_0.png,images,,doc_174_figure_0,a group of men in suits and ties posing for a picture
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1751_figure_0.png,images,,doc_1751_figure_0,a blue square with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1764_figure_0.png,images,,doc_1764_figure_0,the forester logo on a grey background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_177_figure_0.png,images,,doc_177_figure_0,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_177_figure_1.png,images,,doc_177_figure_1,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_177_figure_2.png,images,,doc_177_figure_2,a bar chart showing the number of people who have been diagnosed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1781_figure_0.png,images,,doc_1781_figure_0,a book cover with a picture of a woman in a city
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_183_figure_0.png,images,,doc_183_figure_0,a close up of a field of wheat
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_195_figure_0.png,images,,doc_195_figure_0,a robot that is flying through the air
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1_figure_0.png,images,,doc_1_figure_0,the g s logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_1_figure_1.png,images,,doc_1_figure_1,an image of a city at night
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_0.png,images,,doc_200_figure_0,a woman with a green frame over her face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_1.png,images,,doc_200_figure_1,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_10.png,images,,doc_200_figure_10,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_11.png,images,,doc_200_figure_11,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_12.png,images,,doc_200_figure_12,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_13.png,images,,doc_200_figure_13,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_14.png,images,,doc_200_figure_14,a man in a suit and tie smiling at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_15.png,images,,doc_200_figure_15,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_2.png,images,,doc_200_figure_2,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_3.png,images,,doc_200_figure_3,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_4.png,images,,doc_200_figure_4,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_5.png,images,,doc_200_figure_5,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_6.png,images,,doc_200_figure_6,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_7.png,images,,doc_200_figure_7,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_8.png,images,,doc_200_figure_8,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_200_figure_9.png,images,,doc_200_figure_9,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_205_figure_0.png,images,,doc_205_figure_0,a pie chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_205_figure_1.png,images,,doc_205_figure_1,a pie chart showing the percentage of people who are using their smartphones
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_205_figure_2.png,images,,doc_205_figure_2,a bar chart showing the percentage of the number of people who have been diagnosed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_208_figure_0.png,images,,doc_208_figure_0,a red brick building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_208_figure_1.png,images,,doc_208_figure_1,cars parked in a parking lot in front of a store
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_208_figure_2.png,images,,doc_208_figure_2,a store with cars parked in front of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_212_figure_0.png,images,,doc_212_figure_0,a group of people standing around a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_214_figure_0.png,images,,doc_214_figure_0,a variety of snacks and snacks on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_214_figure_1.png,images,,doc_214_figure_1,a variety of snacks and snacks on a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_215_figure_0.png,images,,doc_215_figure_0,a white background with black and white hexagons
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_217_figure_0.png,images,,doc_217_figure_0,a woman in a red jacket holding a cat
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_222_figure_0.png,images,,doc_222_figure_0,a bar chart with the number of deposits and the number of deposits
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_222_figure_1.png,images,,doc_222_figure_1,a bar chart showing the number of shares and shares
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_222_figure_2.png,images,,doc_222_figure_2,a bar chart with the number of bonds and the number of bonds and the number of bonds
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_222_figure_3.png,images,,doc_222_figure_3,"a pie chart with the percentage of gdps and gdps, and the percentage of gdps and gdp"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_224_figure_0.png,images,,doc_224_figure_0,a man and a woman sitting at a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_227_figure_0.png,images,,doc_227_figure_0,a white lighthouse on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_234_figure_0.png,images,,doc_234_figure_0,a variety of food items on a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_235_figure_0.png,images,,doc_235_figure_0,a diagram showing the number of protons and protons in the nucleus
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_235_figure_1.png,images,,doc_235_figure_1,a diagram showing the number of the numbers in each of the numbers
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_235_figure_2.png,images,,doc_235_figure_2,an image of a line graph with numbers on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_247_figure_0.png,images,,doc_247_figure_0,a close up view of the corner of a window
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_247_figure_1.png,images,,doc_247_figure_1,a picture of a bridge with the sun shining through it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_247_figure_2.png,images,,doc_247_figure_2,a painting of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_249_figure_0.png,images,,doc_249_figure_0,a black and white photo of two older men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_249_figure_1.png,images,,doc_249_figure_1,a black and white photo of a handwritten text on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_249_figure_2.png,images,,doc_249_figure_2,a black and white drawing of a man ' s face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_250_figure_0.png,images,,doc_250_figure_0,a red background with a blue signature on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_252_figure_0.png,images,,doc_252_figure_0,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_252_figure_1.png,images,,doc_252_figure_1,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_252_figure_2.png,images,,doc_252_figure_2,a black and white photo of a woman
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_252_figure_3.png,images,,doc_252_figure_3,a black and white photo of a woman
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_256_figure_0.png,images,,doc_256_figure_0,a diagram of a family tree
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_258_figure_0.png,images,,doc_258_figure_0,the alca logo on a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_258_figure_1.png,images,,doc_258_figure_1,a bear and a map of the area
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_262_figure_0.png,images,,doc_262_figure_0,a black and white striped background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_263_figure_0.png,images,,doc_263_figure_0,a black and white photo of a signature signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_263_figure_1.png,images,,doc_263_figure_1,a black and white photo of a handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_263_figure_2.png,images,,doc_263_figure_2,a black and white photo of a person ' s hand
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_263_figure_3.png,images,,doc_263_figure_3,a person on a horse jumping over a fence
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_269_figure_0.png,images,,doc_269_figure_0,a black and white drawing of two men rowing in a boat
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_271_figure_0.png,images,,doc_271_figure_0,a pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_276_figure_0.png,images,,doc_276_figure_0,a black and white photo of a man ' s signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_280_figure_0.png,images,,doc_280_figure_0,the logo for barnes group inc
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_281_figure_0.png,images,,doc_281_figure_0,a black background with a map of the world
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_287_figure_0.png,images,,doc_287_figure_0,a truck with a hello kitty painted on the side of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_287_figure_1.png,images,,doc_287_figure_1,a red four wheeler quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad quad
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_287_figure_2.png,images,,doc_287_figure_2,an image of a wheel on a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_289_figure_0.png,images,,doc_289_figure_0,a col of a man in a white shirt and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_292_figure_0.png,images,,doc_292_figure_0,a group of people standing outside of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_293_figure_0.png,images,,doc_293_figure_0,a woman standing in front of a display of hair products
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_296_figure_0.png,images,,doc_296_figure_0,a black background with a blue and yellow logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_296_figure_1.png,images,,doc_296_figure_1,a group of people sitting at desks in front of computer screens
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_307_figure_0.png,images,,doc_307_figure_0,a woman with glasses and a gray shirt
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_309_figure_0.png,images,,doc_309_figure_0,a black and white photo of a handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_311_figure_0.png,images,,doc_311_figure_0,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_312_figure_0.png,images,,doc_312_figure_0,"a white background with red writing that says, ' i love you, i love you, i love you"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_312_figure_1.png,images,,doc_312_figure_1,a red background with a pie pie and a pie pie pie pie pie pie pie pie pie pie pie pie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_312_figure_2.png,images,,doc_312_figure_2,a bar chart showing the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_31_figure_0.png,images,,doc_31_figure_0,the logo for the company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_31_figure_1.png,images,,doc_31_figure_1,2006 honda civic coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe coupe
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_327_figure_0.png,images,,doc_327_figure_0,a man sitting at a desk using a computer
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_328_figure_0.png,images,,doc_328_figure_0,a building under construction with scr scr scr scr scr scr scr scr scr scr scr sc
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_328_figure_1.png,images,,doc_328_figure_1,a large white building next to a body of water
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_328_figure_2.png,images,,doc_328_figure_2,the port construction systems logo on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_328_figure_3.png,images,,doc_328_figure_3,sbb group logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_32_figure_0.png,images,,doc_32_figure_0,"a black and white logo with the words, ' we are all in this world '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_332_figure_0.png,images,,doc_332_figure_0,an image of a barcode with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_332_figure_1.png,images,,doc_332_figure_1,the power with soynkk logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_334_figure_0.png,images,,doc_334_figure_0,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_334_figure_1.png,images,,doc_334_figure_1,a black and white photo of a building with a green background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_339_figure_0.png,images,,doc_339_figure_0,the logo for the boys ' s hockey team
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_339_figure_1.png,images,,doc_339_figure_1,the earth ' s best logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_339_figure_2.png,images,,doc_339_figure_2,the logo for imagine pools
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_339_figure_3.png,images,,doc_339_figure_3,terra cafe
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_33_figure_0.png,images,,doc_33_figure_0,an image of a sound wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_340_figure_0.png,images,,doc_340_figure_0,the logo for the end of the end of the end of the end of the end of the end of
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_345_figure_0.png,images,,doc_345_figure_0,two men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_345_figure_1.png,images,,doc_345_figure_1,a drawing of a man ' s face in blue ink
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_345_figure_2.png,images,,doc_345_figure_2,a drawing of a woman ' s face in blue ink
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_346_figure_0.png,images,,doc_346_figure_0,a man in a suit and tie standing with his arms crossed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_347_figure_0.png,images,,doc_347_figure_0,a woman working on a computer in an office
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_356_figure_0.png,images,,doc_356_figure_0,the front of a building with a sign that says chico ' s
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_356_figure_1.png,images,,doc_356_figure_1,a woman standing on a boat in the water
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_356_figure_2.png,images,,doc_356_figure_2,a store filled with lots of clothing
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_356_figure_3.png,images,,doc_356_figure_3,a small island in the middle of a body of water
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_356_figure_4.png,images,,doc_356_figure_4,a woman in a pink jacket and white shorts
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_35_figure_0.png,images,,doc_35_figure_0,a set of three credit cards with the name of the company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_364_figure_0.png,images,,doc_364_figure_0,a couple of men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_368_figure_0.png,images,,doc_368_figure_0,a pie chart showing the percentages of customers
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_368_figure_1.png,images,,doc_368_figure_1,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_369_figure_0.png,images,,doc_369_figure_0,a graph showing the growth of the us economy
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_370_figure_0.png,images,,doc_370_figure_0,a black and white photo of two men walking through a tunnel
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_371_figure_0.png,images,,doc_371_figure_0,a black and white image of a wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_371_figure_1.png,images,,doc_371_figure_1,a black and white image of a sound wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_373_figure_0.png,images,,doc_373_figure_0,a man in a suit and tie standing in front of a wall
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_374_figure_0.png,images,,doc_374_figure_0,a blue and white logo with the letter d and a white and blue logo with the letter d
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_377_figure_0.png,images,,doc_377_figure_0,an old black and white photo of a ship
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_378_figure_0.png,images,,doc_378_figure_0,a man in a white shirt and tie sitting on a couch
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_380_figure_0.png,images,,doc_380_figure_0,a blue background with a white logo and the words does
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_380_figure_1.png,images,,doc_380_figure_1,a black and white logo on a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_382_figure_0.png,images,,doc_382_figure_0,a block diagram with a block diagram and a block diagram with a block diagram and a block diagram with a
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_385_figure_0.png,images,,doc_385_figure_0,a close up of a map with the words how to use a map as a guide
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_394_figure_0.png,images,,doc_394_figure_0,a black and white photo of a handwritten font
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_39_figure_0.png,images,,doc_39_figure_0,a blue background with a white logo and the letter k
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_3_figure_0.png,images,,doc_3_figure_0,a group of people working on a construction site
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_401_figure_0.png,images,,doc_401_figure_0,a woman pushing a shopping cart in a store
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_404_figure_0.png,images,,doc_404_figure_0,a black and white photo of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_40_figure_0.png,images,,doc_40_figure_0,the logo for the saudi air company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_40_figure_1.png,images,,doc_40_figure_1,the first aid kit contains all of the first aid kits
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_40_figure_2.png,images,,doc_40_figure_2,an image of a tray full of food
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_410_figure_0.png,images,,doc_410_figure_0,a building with a sign on the front of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_410_figure_1.png,images,,doc_410_figure_1,a brick building with a clock on the top of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_410_figure_2.png,images,,doc_410_figure_2,a group of people walking around a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_412_figure_0.png,images,,doc_412_figure_0,the million spot book
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_412_figure_1.png,images,,doc_412_figure_1,a newspaper with the word ' the record ' on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_412_figure_2.png,images,,doc_412_figure_2,the logo for the golf memory club
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_412_figure_3.png,images,,doc_412_figure_3,a col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col col
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_417_figure_0.png,images,,doc_417_figure_0,a man in a hospital room wearing a surgical mask
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_41_figure_0.png,images,,doc_41_figure_0,a group of wind turbines on a cliff
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_420_figure_0.png,images,,doc_420_figure_0,a picture of a small town at dusk
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_420_figure_1.png,images,,doc_420_figure_1,a pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_423_figure_0.png,images,,doc_423_figure_0,a man standing in front of a computer
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_42_figure_0.png,images,,doc_42_figure_0,a group of people sitting around a coffee table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_430_figure_0.png,images,,doc_430_figure_0,a pie chart showing the percentages and percentages of a pie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_434_figure_0.png,images,,doc_434_figure_0,a large red brick house
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_434_figure_1.png,images,,doc_434_figure_1,"a map of the counties of new york, new york and new york"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_436_figure_0.png,images,,doc_436_figure_0,a woman standing next to a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_43_figure_0.png,images,,doc_43_figure_0,a map of the united with different colored arrows
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_446_figure_0.png,images,,doc_446_figure_0,a map showing the location of the area
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_446_figure_1.png,images,,doc_446_figure_1,a picture of a building with a sign on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_447_figure_0.png,images,,doc_447_figure_0,a bar chart showing the number of people who are using the internet
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_44_figure_0.png,images,,doc_44_figure_0,a picture of a person riding a horse
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_44_figure_1.png,images,,doc_44_figure_1,the logo of the university of wisconsin
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_451_figure_0.png,images,,doc_451_figure_0,the cover of a book with a picture of a white house and trees in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_452_figure_0.png,images,,doc_452_figure_0,a blue triangle with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_0.png,images,,doc_459_figure_0,"a white background with a blue text that says, ' happy grandpa '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_1.png,images,,doc_459_figure_1,a blue and white logo with a white background and a blue and white logo with a white background and a
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_10.png,images,,doc_459_figure_10,the bmo financial group logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_2.png,images,,doc_459_figure_2,a blue signature on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_3.png,images,,doc_459_figure_3,"a blue and white logo with the words, ' blue and white '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_4.png,images,,doc_459_figure_4,the logo for a company that sells the name of the company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_5.png,images,,doc_459_figure_5,a blue sound wave on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_6.png,images,,doc_459_figure_6,the signature of a man in blue ink on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_7.png,images,,doc_459_figure_7,the logo for the company ' s new website
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_8.png,images,,doc_459_figure_8,a drawing of a plane flying through the sky
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_459_figure_9.png,images,,doc_459_figure_9,the logo for the company ' s new website
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_468_figure_0.png,images,,doc_468_figure_0,the logo for enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise enterprise
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_471_figure_0.png,images,,doc_471_figure_0,a large warehouse filled with lots of boxes
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_471_figure_1.png,images,,doc_471_figure_1,the inside of a building at night
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_471_figure_2.png,images,,doc_471_figure_2,a large machine that is working on a piece of metal
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_473_figure_0.png,images,,doc_473_figure_0,"bares group, inc"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_476_figure_0.png,images,,doc_476_figure_0,the logo of the world bank
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_47_figure_0.png,images,,doc_47_figure_0,three different types of hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic hydraulic
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_47_figure_1.png,images,,doc_47_figure_1,an oil rig in the middle of the ocean
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_47_figure_2.png,images,,doc_47_figure_2,a picture of a machine with a blue background and a picture of a machine with a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_481_figure_0.png,images,,doc_481_figure_0,a young girl in a classroom with her name tag on her neck
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_482_figure_0.png,images,,doc_482_figure_0,a large white tank with yellow pipes and a blue sky in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_482_figure_1.png,images,,doc_482_figure_1,a christmas tree with a red ribbon around it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_48_figure_0.png,images,,doc_48_figure_0,a white lighthouse with a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_491_figure_0.png,images,,doc_491_figure_0,"a black and white photo of a handwritten text that says, ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ' ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_491_figure_1.png,images,,doc_491_figure_1,a black and white photo of a woman ' s face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_497_figure_0.png,images,,doc_497_figure_0,the logo for blue dolphin
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_497_figure_1.png,images,,doc_497_figure_1,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_504_figure_0.png,images,,doc_504_figure_0,a graph shows the number of people who have lived in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_504_figure_1.png,images,,doc_504_figure_1,a bar chart showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_504_figure_2.png,images,,doc_504_figure_2,"a bar graph with the same number of columns and the same number of columns, and the same number of"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_50_figure_0.png,images,,doc_50_figure_0,the google logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_510_figure_0.png,images,,doc_510_figure_0,a map of the united with states highlighted in red and blue
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_512_figure_0.png,images,,doc_512_figure_0,a black and white photo of a plane flying in the sky
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_512_figure_1.png,images,,doc_512_figure_1,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_512_figure_2.png,images,,doc_512_figure_2,a black and white photo of a city
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_512_figure_3.png,images,,doc_512_figure_3,an image of a city with buildings in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_514_figure_0.png,images,,doc_514_figure_0,an aerial view of a bridge over a body of water
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_514_figure_1.png,images,,doc_514_figure_1,a picture of a city with a lot of buildings
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_518_figure_0.png,images,,doc_518_figure_0,the logo of the school of arts and design
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_518_figure_1.png,images,,doc_518_figure_1,the property group logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_523_figure_0.png,images,,doc_523_figure_0,carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl carl
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_525_figure_0.png,images,,doc_525_figure_0,a blue and white logo with the letter d on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_528_figure_0.png,images,,doc_528_figure_0,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_528_figure_1.png,images,,doc_528_figure_1,a black and white photo of a man with glasses
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_528_figure_2.png,images,,doc_528_figure_2,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_528_figure_3.png,images,,doc_528_figure_3,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_528_figure_4.png,images,,doc_528_figure_4,a black and white photo of a woman with glasses
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_539_figure_0.png,images,,doc_539_figure_0,a group of men standing on a red carpet
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_539_figure_1.png,images,,doc_539_figure_1,a man in a suit and tie standing next to another man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_539_figure_2.png,images,,doc_539_figure_2,a large building with a lot of tanks in it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_544_figure_0.png,images,,doc_544_figure_0,a blue and green logo with the letter s in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_547_figure_0.png,images,,doc_547_figure_0,a black and white photo of a person ' s handwriting
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_547_figure_1.png,images,,doc_547_figure_1,a group of people in red shirts posing for a photo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_552_figure_0.png,images,,doc_552_figure_0,a bar chart showing the average cost of a car
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_552_figure_1.png,images,,doc_552_figure_1,a group of people kaying down a waterfall
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_555_figure_0.png,images,,doc_555_figure_0,an image of a bear and a bear on a chart
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_558_figure_0.png,images,,doc_558_figure_0,a black and white image of a sound wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_55_figure_0.png,images,,doc_55_figure_0,the cover of a book with images of shops and stores
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_55_figure_1.png,images,,doc_55_figure_1,an image of a blue and white background with a white and blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_560_figure_0.png,images,,doc_560_figure_0,the hartford golf club
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_561_figure_0.png,images,,doc_561_figure_0,an image of a mountain with a sky in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_566_figure_0.png,images,,doc_566_figure_0,the cnn logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_573_figure_0.png,images,,doc_573_figure_0,a black and white image of a black and white image of a black and white image of a black and
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_573_figure_1.png,images,,doc_573_figure_1,a woman sitting at a desk in front of a mirror
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_575_figure_0.png,images,,doc_575_figure_0,a group of people sitting on red chairs
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_57_figure_0.png,images,,doc_57_figure_0,a black and white image of a wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_57_figure_1.png,images,,doc_57_figure_1,a black and white photo of a handwritten signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_583_figure_0.png,images,,doc_583_figure_0,a white train traveling past a tall building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_587_figure_0.png,images,,doc_587_figure_0,a man and woman shaking hands in front of a rug
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_587_figure_1.png,images,,doc_587_figure_1,a group of men standing around a table in a room
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_587_figure_2.png,images,,doc_587_figure_2,a man in a suit and tie sitting at a desk
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_589_figure_0.png,images,,doc_589_figure_0,the p & g logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_58_figure_0.png,images,,doc_58_figure_0,a black and white photo of a man ' s face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_590_figure_0.png,images,,doc_590_figure_0,the cover of a book with a red and blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_594_figure_0.png,images,,doc_594_figure_0,the cbz logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_597_figure_0.png,images,,doc_597_figure_0,a col of a man riding a horse in front of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_597_figure_1.png,images,,doc_597_figure_1,the logo for the company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_598_figure_0.png,images,,doc_598_figure_0,a black and white logo with the words ' aster ' and ' aster '
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_604_figure_0.png,images,,doc_604_figure_0,a group of men in suits and ties
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_605_figure_0.png,images,,doc_605_figure_0,a black and white logo with the words safety
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_605_figure_1.png,images,,doc_605_figure_1,"a black and white logo with the words, ` ` ', ` ' ', ' ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', ', and '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_606_figure_0.png,images,,doc_606_figure_0,a diagram showing the different stages of a performance management system
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_608_figure_0.png,images,,doc_608_figure_0,a group of men working in a factory
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_611_figure_0.png,images,,doc_611_figure_0,a bar chart showing the percentage of income in different countries
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_611_figure_1.png,images,,doc_611_figure_1,an image of a bar chart with a bar chart in the middle and a bar chart in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_613_figure_0.png,images,,doc_613_figure_0,a green screen with a bar chart on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_613_figure_1.png,images,,doc_613_figure_1,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_613_figure_2.png,images,,doc_613_figure_2,a group of people sitting at a bar next to a body of water
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_613_figure_3.png,images,,doc_613_figure_3,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_616_figure_0.png,images,,doc_616_figure_0,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_621_figure_0.png,images,,doc_621_figure_0,a woman standing next to a swimming pool
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_625_figure_0.png,images,,doc_625_figure_0,a black and white photo of the logo for a music studio
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_627_figure_0.png,images,,doc_627_figure_0,the logo for nutlatt
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_627_figure_1.png,images,,doc_627_figure_1,the baker baker baker baker baker baker baker baker baker baker baker baker baker baker baker baker baker baker baker baker
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_627_figure_2.png,images,,doc_627_figure_2,dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_638_figure_0.png,images,,doc_638_figure_0,a black and white image of a line of text
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_638_figure_1.png,images,,doc_638_figure_1,a black and white image of a wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_643_figure_0.png,images,,doc_643_figure_0,green apples on a green background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_644_figure_0.png,images,,doc_644_figure_0,a bar chart showing the number of different products sold in different markets
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_644_figure_1.png,images,,doc_644_figure_1,a boat with a trailer attached to it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_644_figure_2.png,images,,doc_644_figure_2,a white rv parked in a parking lot
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_645_figure_0.png,images,,doc_645_figure_0,a blue background with a white border
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_648_figure_0.png,images,,doc_648_figure_0,a black and white drawing of a man ' s face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_648_figure_1.png,images,,doc_648_figure_1,a graph shows the percentage of the number of people living in the area
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_648_figure_2.png,images,,doc_648_figure_2,quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick quick
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_64_figure_0.png,images,,doc_64_figure_0,a woman in a pink shirt
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_650_figure_0.png,images,,doc_650_figure_0,the logo for us cellular
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_655_figure_0.png,images,,doc_655_figure_0,the logo for the westside tennis club
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_655_figure_1.png,images,,doc_655_figure_1,a black and white image of a sound wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_657_figure_0.png,images,,doc_657_figure_0,a bar chart showing the percentage of total and total returns
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_65_figure_0.png,images,,doc_65_figure_0,a black and white image of circles on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_664_figure_0.png,images,,doc_664_figure_0,a photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_664_figure_1.png,images,,doc_664_figure_1,an image of a world map with many different objects
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_667_figure_0.png,images,,doc_667_figure_0,a semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi semi
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_667_figure_1.png,images,,doc_667_figure_1,a white background with the word ' s logo and the word ' s name
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_667_figure_2.png,images,,doc_667_figure_2,a picture of a green truck with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_669_figure_0.png,images,,doc_669_figure_0,a white tree with green leaves in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_673_figure_0.png,images,,doc_673_figure_0,a house with a car parked in front of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_677_figure_0.png,images,,doc_677_figure_0,a man in a suit and tie standing in a kitchen
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_678_figure_0.png,images,,doc_678_figure_0,a pair of screws on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_678_figure_1.png,images,,doc_678_figure_1,a black and white drawing of a man ' s face
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_678_figure_2.png,images,,doc_678_figure_2,a black and white logo with the word ' s logo on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_679_figure_0.png,images,,doc_679_figure_0,a man standing in front of a restaurant
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_681_figure_0.png,images,,doc_681_figure_0,the mother board is shown in this image
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_683_figure_0.png,images,,doc_683_figure_0,a close up of a car ' s gear knob
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_683_figure_1.png,images,,doc_683_figure_1,a diagram showing the direction of a plane that is in the air
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_683_figure_2.png,images,,doc_683_figure_2,the cover of a book with a gas pump in the background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_687_figure_0.png,images,,doc_687_figure_0,a man in a suit and tie smiles at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_688_figure_0.png,images,,doc_688_figure_0,a man in a suit and tie sitting at a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_689_figure_0.png,images,,doc_689_figure_0,a circle with the words manage for cash and a circle with the words manage for cash
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_689_figure_1.png,images,,doc_689_figure_1,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_689_figure_2.png,images,,doc_689_figure_2,a bar chart showing the percentage of the number of people in the country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_689_figure_3.png,images,,doc_689_figure_3,an orange and black tiger stripe on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_689_figure_4.png,images,,doc_689_figure_4,"a variety of cereals, including cereals, cereal bars and cereal bars"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_68_figure_0.png,images,,doc_68_figure_0,a red circle with the number 2 on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_68_figure_1.png,images,,doc_68_figure_1,a white logo with the word ' s name and the word ' s name
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_692_figure_0.png,images,,doc_692_figure_0,the front of a restaurant at night
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_692_figure_1.png,images,,doc_692_figure_1,a blurry image of a room with tables and chairs
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_692_figure_2.png,images,,doc_692_figure_2,a woman standing in front of a white wall
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_692_figure_3.png,images,,doc_692_figure_3,a woman in a black dress is standing on a white ball
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_692_figure_4.png,images,,doc_692_figure_4,a building with a tree in front of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_692_figure_5.png,images,,doc_692_figure_5,a woman in a black dress sitting on a white surface
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_692_figure_6.png,images,,doc_692_figure_6,a store filled with lots of clothing and accessories
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_693_figure_0.png,images,,doc_693_figure_0,a white number with the number six on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_697_figure_0.png,images,,doc_697_figure_0,a man wearing a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_698_figure_0.png,images,,doc_698_figure_0,a picture of a car being assembled in a factory
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_700_figure_0.png,images,,doc_700_figure_0,a black suv driving down a city street
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_701_figure_0.png,images,,doc_701_figure_0,an image of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_701_figure_1.png,images,,doc_701_figure_1,an image of a person in a space suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_701_figure_2.png,images,,doc_701_figure_2,a black and white photo of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_703_figure_0.png,images,,doc_703_figure_0,a chart showing the number of different types of the different types of the different types of the different types of
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_708_figure_0.png,images,,doc_708_figure_0,a man in a black shirt sitting on a couch
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_708_figure_1.png,images,,doc_708_figure_1,a group of people sitting around a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_711_figure_0.png,images,,doc_711_figure_0,"an image of a circular diagram with the words e / a, e / a, e / a, e / a, e / a"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_712_figure_0.png,images,,doc_712_figure_0,the logo for torar
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_712_figure_1.png,images,,doc_712_figure_1,a man in a suit and tie standing next to another man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_713_figure_0.png,images,,doc_713_figure_0,a map of the united with a brown background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_0.png,images,,doc_716_figure_0,a blue square on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_1.png,images,,doc_716_figure_1,an image of a square with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_10.png,images,,doc_716_figure_10,a gray color with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_11.png,images,,doc_716_figure_11,a pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_12.png,images,,doc_716_figure_12,a pie chart showing the percentage of people who have been in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_13.png,images,,doc_716_figure_13,a pie chart showing the percentage of the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_14.png,images,,doc_716_figure_14,a pie chart showing the percentage of the number of people in each region
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_15.png,images,,doc_716_figure_15,a pie chart with the percentage of the percentage of the percentage of the percentage of the percentage of the percentage
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_16.png,images,,doc_716_figure_16,a pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_2.png,images,,doc_716_figure_2,a pink color with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_3.png,images,,doc_716_figure_3,a white background with a light gray color
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_4.png,images,,doc_716_figure_4,a blue square with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_5.png,images,,doc_716_figure_5,a green background with a white border
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_6.png,images,,doc_716_figure_6,a pink square with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_7.png,images,,doc_716_figure_7,a teal green color on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_8.png,images,,doc_716_figure_8,a bottle of orange paint on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_716_figure_9.png,images,,doc_716_figure_9,a purple square with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_718_figure_0.png,images,,doc_718_figure_0,a line graph showing the number of people who have been diagnosed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_718_figure_1.png,images,,doc_718_figure_1,a line graph showing the number of people who are using the internet
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_71_figure_0.png,images,,doc_71_figure_0,a man in a red shirt is using a calculaer
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_71_figure_1.png,images,,doc_71_figure_1,a man in an orange jacket is working on a machine
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_721_figure_0.png,images,,doc_721_figure_0,a graph with a line graph and a line graph with a line graph and a line graph with a line
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_721_figure_1.png,images,,doc_721_figure_1,the graph shows that the number of people in the city is increasing
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_721_figure_2.png,images,,doc_721_figure_2,a graph showing the number of active active active active active active active active active active active active active active active
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_721_figure_3.png,images,,doc_721_figure_3,a graph with the number of the number of the number of the number of the number of the number of the number of the number of the
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_722_figure_0.png,images,,doc_722_figure_0,a building with cars parked in front of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_722_figure_1.png,images,,doc_722_figure_1,a group of palm trees
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_722_figure_2.png,images,,doc_722_figure_2,this is a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_0.png,images,,doc_723_figure_0,an image of a bottle of water on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_1.png,images,,doc_723_figure_1,a black and white photo with a blue border
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_2.png,images,,doc_723_figure_2,an image of a bottle of water on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_3.png,images,,doc_723_figure_3,a bottle of water on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_4.png,images,,doc_723_figure_4,a bottle of water on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_5.png,images,,doc_723_figure_5,an image of a blue and white background with a white border
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_6.png,images,,doc_723_figure_6,a black and white photo of a man in a suit
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_7.png,images,,doc_723_figure_7,a bottle of water on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_723_figure_8.png,images,,doc_723_figure_8,an image of a pair of screws on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_724_figure_0.png,images,,doc_724_figure_0,a bar chart shows the percentage of the number of people in the united
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_724_figure_1.png,images,,doc_724_figure_1,a bar chart showing the percentage of the number of people in the united
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_726_figure_0.png,images,,doc_726_figure_0,a woman sitting at a table with a man reading a newspaper
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_734_figure_0.png,images,,doc_734_figure_0,a blue and white logo with the letter n on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_744_figure_0.png,images,,doc_744_figure_0,a map of the united with a red line in the middle of the map
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_745_figure_0.png,images,,doc_745_figure_0,an image of a tree with green leaves on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_745_figure_1.png,images,,doc_745_figure_1,the logo for the bera bank corporation
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_750_figure_0.png,images,,doc_750_figure_0,a group of men in white robes standing in front of a crowd
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_756_figure_0.png,images,,doc_756_figure_0,a black and white image of a recycling symbol
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_75_figure_0.png,images,,doc_75_figure_0,a bar chart showing the percentage of the number of people in each region
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_75_figure_1.png,images,,doc_75_figure_1,a bar chart showing the number of people who have been diagnosed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_763_figure_0.png,images,,doc_763_figure_0,the british flag on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_763_figure_1.png,images,,doc_763_figure_1,a car parked in front of a walmart store
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_763_figure_2.png,images,,doc_763_figure_2,the flag of china
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_763_figure_3.png,images,,doc_763_figure_3,the flag of south korea
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_765_figure_0.png,images,,doc_765_figure_0,a book with a picture of a man on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_765_figure_1.png,images,,doc_765_figure_1,a man and a woman standing at a counter
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_768_figure_0.png,images,,doc_768_figure_0,the m c logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_768_figure_1.png,images,,doc_768_figure_1,a clock with the words sales on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_769_figure_0.png,images,,doc_769_figure_0,a group of people standing in front of paintings
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_769_figure_1.png,images,,doc_769_figure_1,the number of the number of the number of the number of the number of the number of the number of the number of the number of the
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_76_figure_0.png,images,,doc_76_figure_0,the first young logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_76_figure_1.png,images,,doc_76_figure_1,a black and white photo of a person ' s handwriting
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_76_figure_2.png,images,,doc_76_figure_2,the signature of person
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_773_figure_0.png,images,,doc_773_figure_0,a blue background with white lines in the middle of the image
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_776_figure_0.png,images,,doc_776_figure_0,a black and white logo for a water company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_776_figure_1.png,images,,doc_776_figure_1,the rear view of a black car
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_780_figure_0.png,images,,doc_780_figure_0,a white lighthouse on a black background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_782_figure_0.png,images,,doc_782_figure_0,a graph shows the number of cables that are connected to each other wires
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_782_figure_1.png,images,,doc_782_figure_1,a bar chart showing the number of different types of electrical wires
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_788_figure_0.png,images,,doc_788_figure_0,"a yellow check card with the words, ' check ' and ' check '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_788_figure_1.png,images,,doc_788_figure_1,two men sitting in chairs talking to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_790_figure_0.png,images,,doc_790_figure_0,a man and woman looking at a house under construction
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_790_figure_1.png,images,,doc_790_figure_1,a woman talking to a man in a meeting room
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_796_figure_0.png,images,,doc_796_figure_0,a large group of people standing in a parking lot
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_799_figure_0.png,images,,doc_799_figure_0,a group of people standing in a room
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_799_figure_1.png,images,,doc_799_figure_1,a group of people standing in front of a building
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_802_figure_0.png,images,,doc_802_figure_0,a black and white photo of people walking down the street
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_802_figure_1.png,images,,doc_802_figure_1,a black and white photo of people walking down the street
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_804_figure_0.png,images,,doc_804_figure_0,a black and white image of a black and white image of a black and white image of a black and
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_809_figure_0.png,images,,doc_809_figure_0,a group of men standing next to each other men
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_811_figure_0.png,images,,doc_811_figure_0,the logo for the company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_811_figure_1.png,images,,doc_811_figure_1,the signature of person
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_811_figure_2.png,images,,doc_811_figure_2,a black and white photo of a signature signature signature signature signature signature signature signature signature signature signature signature signature signature signature signature signature signature signature signature signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_812_figure_0.png,images,,doc_812_figure_0,a pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_812_figure_1.png,images,,doc_812_figure_1,a graph showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_812_figure_2.png,images,,doc_812_figure_2,a pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie pie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_812_figure_3.png,images,,doc_812_figure_3,an image of a computer screen with a red and white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_812_figure_4.png,images,,doc_812_figure_4,a group of people standing in front of the ocean
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_817_figure_0.png,images,,doc_817_figure_0,a black and white logo with a red circle in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_818_figure_0.png,images,,doc_818_figure_0,a black and white photo of a restaurant with tables and chairs
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_818_figure_1.png,images,,doc_818_figure_1,a black and white photo of a large white object
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_818_figure_2.png,images,,doc_818_figure_2,a black and white photo of a room with tables and chairs
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_818_figure_3.png,images,,doc_818_figure_3,a white refrigerator freezer sitting on top of a green background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_818_figure_4.png,images,,doc_818_figure_4,an image of a metal ball on a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_818_figure_5.png,images,,doc_818_figure_5,a laptop with a mouse on top of it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_820_figure_0.png,images,,doc_820_figure_0,the phy boys logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_820_figure_1.png,images,,doc_820_figure_1,a woman holding a piece of paper and smiling
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_822_figure_0.png,images,,doc_822_figure_0,quality products & service
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_822_figure_1.png,images,,doc_822_figure_1,a white truck with the hood open and the hood open
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_823_figure_0.png,images,,doc_823_figure_0,a man in a suit and tie holding a box of food
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_831_figure_0.png,images,,doc_831_figure_0,a body of water
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_840_figure_0.png,images,,doc_840_figure_0,a tall building in the middle of a city
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_840_figure_1.png,images,,doc_840_figure_1,a white background with a black and white logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_842_figure_0.png,images,,doc_842_figure_0,two men in a field looking at plants
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_843_figure_0.png,images,,doc_843_figure_0,a painting on the wall
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_845_figure_0.png,images,,doc_845_figure_0,a book with a yellow cover and a white logo on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_845_figure_1.png,images,,doc_845_figure_1,a green parrot perched on a man ' s shoulder
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_845_figure_2.png,images,,doc_845_figure_2,"a map showing the location of providence, massachusetts"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_845_figure_3.png,images,,doc_845_figure_3,a man in a tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed tuxed
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_849_figure_0.png,images,,doc_849_figure_0,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_849_figure_1.png,images,,doc_849_figure_1,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_849_figure_2.png,images,,doc_849_figure_2,a black and white photo of a woman
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_849_figure_3.png,images,,doc_849_figure_3,a black and white photo of a man in a suit and tie
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_849_figure_4.png,images,,doc_849_figure_4,the board of directors logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_850_figure_0.png,images,,doc_850_figure_0,a green background with the logo of a bank
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_850_figure_1.png,images,,doc_850_figure_1,an image of some trees in the woods
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_854_figure_0.png,images,,doc_854_figure_0,a diagram showing the different parts of an umbrella
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_861_figure_0.png,images,,doc_861_figure_0,micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro micro
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_861_figure_1.png,images,,doc_861_figure_1,a set of electronic components on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_862_figure_0.png,images,,doc_862_figure_0,a man and woman sitting at a table with a plate of food
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_868_figure_0.png,images,,doc_868_figure_0,a map showing the number of people in the region
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_868_figure_1.png,images,,doc_868_figure_1,a woman sitting at a table signing a book
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_868_figure_2.png,images,,doc_868_figure_2,a car is parked in front of a pizza restaurant
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_86_figure_0.png,images,,doc_86_figure_0,a man in a spacesuit looking at the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_871_figure_0.png,images,,doc_871_figure_0,a black and white image of a black and white image of a black and white image of a black and
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_877_figure_0.png,images,,doc_877_figure_0,dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai dai
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_87_figure_0.png,images,,doc_87_figure_0,a blue and white logo with a circle in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_880_figure_0.png,images,,doc_880_figure_0,a yellow background with a pattern in the middle
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_881_figure_0.png,images,,doc_881_figure_0,a man in a suit and tie is smiling
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_881_figure_1.png,images,,doc_881_figure_1,"a black and white logo with the word, ` ` '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_885_figure_0.png,images,,doc_885_figure_0,a pie chart showing the percentage of the united states
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_898_figure_0.png,images,,doc_898_figure_0,the brady logo on a dark blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_900_figure_0.png,images,,doc_900_figure_0,"a diagram shows the percentage of the number of people in the country, and the percentage of the number of"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_900_figure_1.png,images,,doc_900_figure_1,a graph shows the number of people in the united and the number of people in the united
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_900_figure_2.png,images,,doc_900_figure_2,a bar chart showing the percentage of the number of people in each country
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_900_figure_3.png,images,,doc_900_figure_3,a graph that shows the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_902_figure_0.png,images,,doc_902_figure_0,a man in an orange jacket skiing down a mountain
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_902_figure_1.png,images,,doc_902_figure_1,a man in a red shirt swinging a golf club
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_908_figure_0.png,images,,doc_908_figure_0,an image of a barcode with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_909_figure_0.png,images,,doc_909_figure_0,the logo of the saudi air company
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_909_figure_1.png,images,,doc_909_figure_1,a blue watercolor background with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_912_figure_0.png,images,,doc_912_figure_0,a line graph showing the number of people who have died in the past
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_912_figure_1.png,images,,doc_912_figure_1,a line graph with a red line and a white line with a red line
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_928_figure_0.png,images,,doc_928_figure_0,the baseball player is about to catch the ball
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_928_figure_1.png,images,,doc_928_figure_1,the front page of the new york times and the front page of the new york times
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_928_figure_2.png,images,,doc_928_figure_2,the front pages of the new york times and the front pages of the new york times
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_931_figure_0.png,images,,doc_931_figure_0,a blue square with a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_931_figure_1.png,images,,doc_931_figure_1,a screenshot of a table with a number of items on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_932_figure_0.png,images,,doc_932_figure_0,an arrow pointing up to the left side of a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_932_figure_1.png,images,,doc_932_figure_1,a block diagram showing the different types of the system
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_933_figure_0.png,images,,doc_933_figure_0,a bottle of all laundry deter
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_933_figure_1.png,images,,doc_933_figure_1,two bottles of soda and a bottle of soda
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_933_figure_2.png,images,,doc_933_figure_2,a white and blue bottle with a green leaf on it
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_936_figure_0.png,images,,doc_936_figure_0,the signature of person
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_93_figure_0.png,images,,doc_93_figure_0,a black and white photo of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_944_figure_0.png,images,,doc_944_figure_0,a man and a woman standing in a room
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_950_figure_0.png,images,,doc_950_figure_0,a black and white image of a bar chart
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_950_figure_1.png,images,,doc_950_figure_1,a black and white image of a black and white image of a black and white image of a black and
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_954_figure_0.png,images,,doc_954_figure_0,a person laying in bed with an oxygen mask on
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_957_figure_0.png,images,,doc_957_figure_0,a bar chart showing the number of chromosomes and chromosomes
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_957_figure_1.png,images,,doc_957_figure_1,a bar chart showing the number of chromosomes and chromosomes
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_957_figure_2.png,images,,doc_957_figure_2,a bar chart showing the number of chromosomes and chromosomes
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_957_figure_3.png,images,,doc_957_figure_3,a bar chart showing the number of chromosomes
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_959_figure_0.png,images,,doc_959_figure_0,a black and white photo of a signature signature
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_959_figure_1.png,images,,doc_959_figure_1,a black and white image of a line drawing of a handwritten script
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_966_figure_0.png,images,,doc_966_figure_0,a variety of teas and tea bags on a white background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_966_figure_1.png,images,,doc_966_figure_1,three boxes of celestial seasoning teas and a box of celestial seasoning tea
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_971_figure_0.png,images,,doc_971_figure_0,cash dividers share
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_971_figure_1.png,images,,doc_971_figure_1,a graph shows the number of foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign foreign
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_973_figure_0.png,images,,doc_973_figure_0,a man with glasses and a white shirt
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_0.png,images,,doc_979_figure_0,a photo of a young girl with long brown hair
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_1.png,images,,doc_979_figure_1,an image of a young boy smiling for the camera
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_2.png,images,,doc_979_figure_2,a photo of a young girl with a purple background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_3.png,images,,doc_979_figure_3,a photo of a young boy in a blue frame
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_4.png,images,,doc_979_figure_4,a photo of a young girl with a pink background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_5.png,images,,doc_979_figure_5,an image of a young girl with a blue background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_6.png,images,,doc_979_figure_6,a photo of a young boy with a red background
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_7.png,images,,doc_979_figure_7,the missing children network logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_979_figure_8.png,images,,doc_979_figure_8,the national center for missing and exploited children logo
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_980_figure_0.png,images,,doc_980_figure_0,a black and white image of a sound wave
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_995_figure_0.png,images,,doc_995_figure_0,"a white background with a blue font that says, ' toy grapes '"
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_996_figure_0.png,images,,doc_996_figure_0,a man in a hard hat holding a box
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_999_figure_0.png,images,,doc_999_figure_0,a group of logos for various brands
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_999_figure_1.png,images,,doc_999_figure_1,a variety of dairy products on a table
+/content/drive/MyDrive/EEE6778_Semester_Project/doclaynet_synthetic_dataset/images/doc_999_figure_2.png,images,,doc_999_figure_2,"a variety of food items including rice, rice, rice flour, rice flour, rice flour, rice flour"
